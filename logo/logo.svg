@@ -1,0 +1,19 @@
+<svg viewBox="0 0 200 250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Lasagna Layers -->
+  <rect x="60" y="60" width="80" height="20" fill="#E67E22" rx="4"/> <!-- Top -->
+  <rect x="60" y="80" width="80" height="20" fill="#27AE60" rx="4"/> <!-- Middle -->
+  <rect x="60" y="100" width="80" height="20" fill="#F1C40F" rx="4"/> <!-- Bottom -->
+  
+  <!-- Robot Head & Limbs -->
+  <circle cx="100" cy="40" r="15" fill="#E67E22"/>
+  <circle cx="92" cy="38" r="3" fill="#2C3E50"/> <!-- Eye -->
+  <circle cx="108" cy="38" r="3" fill="#2C3E50"/> <!-- Eye -->
+  
+  <line x1="140" y1="80" x2="160" y2="50" stroke="#E67E22" stroke-width="4"/> <!-- Arm -->
+  <rect x="65" y="120" width="15" height="15" fill="#E67E22" rx="2"/> <!-- Leg 1 -->
+  <rect x="120" y="120" width="15" height="15" fill="#E67E22" rx="2"/> <!-- Leg 2 -->
+  
+  <!-- Baking Dish -->
+  <path d="M50 135 L150 135 L145 160 L55 160 Z" fill="none" stroke="#2C3E50" stroke-width="3"/>
+  <text x="100" y="153" font-family="sans-serif" font-weight="bold" font-size="12" text-anchor="middle" fill="#2C3E50">OLASAGNA</text>
+</svg>
