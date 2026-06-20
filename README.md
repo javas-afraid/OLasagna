@@ -9,3 +9,10 @@
 
 </div>
 
+## OLasagna
+OLasagna is a Ollama inspirated AI with infinite ai, no credits, This AI Package Includes
+- Uerqi AI 1.0 Beta
+- Skammeh Beta 1.1
+- Boom 1.0
+  <br>
+And many more free ones, you can PR an AI 2 the rez-q!
